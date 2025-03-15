@@ -42,9 +42,6 @@ README.md                # Documentation file
 - Include **predictive analytics** for attrition risk.
 - Improve responsiveness and mobile-friendly views.
 
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## 🤝 Contributing
 Feel free to submit pull requests or report issues.
 
