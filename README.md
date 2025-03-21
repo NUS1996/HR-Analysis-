@@ -2,7 +2,10 @@
 
 This repository contains a Power BI **HR Analytics Dashboard** that provides insights into employee attrition, job satisfaction, and workforce demographics.
 
+![Dashboard Preview](https://github.com/NUS1996/HR-Analysis-/blob/main/HR%20Analytics%20dashboard_image%20.png)
+
 ## 📊 Dashboard Overview
+
 This Power BI dashboard visualizes key HR metrics, including:
 - **Total Employees, Attrition, Active Employees, and Attrition Rate**
 - **Attrition Distribution by Educational Background**
